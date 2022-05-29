@@ -103,7 +103,7 @@ This allows for easier installation and updating as you don't have to manage any
    ```yaml
    theme: minimal-mistakes-jekyll
    ```
-
+ 
 To update the theme run `bundle update`.
 
 ### Remote theme method
