@@ -127,7 +127,7 @@ To install:
 
    ```bash
    bundle
-   ```
+   ```  
 
 4. Add `remote_theme: "mmistakes/minimal-mistakes@4.24.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
 
